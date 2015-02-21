@@ -22,3 +22,10 @@ You also need to make changes to two JSON files within Caret's settings.
 ```
 { "label": "Plugin Demo", "command": "api:execute", "argument": "pluginDemo" }
 ```
+
+## Images
+Here are a couple images that will help. They show how to find the console link on the extension pages, and what it should look like.
+
+![Find Console](http://i.imgur.com/BkkIXGI.png)
+
+![Find Console](http://i.imgur.com/0WFnAOf.png)
