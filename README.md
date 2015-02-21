@@ -11,6 +11,7 @@ You also need to make changes to two JSON files within Caret's settings.
 ```
 "pluginDemo": {
   "id": "kcgikkicgjgimeecgcaikofclidgknnl",
+  "sendEditorContext": true,
   "message": {
     "data": "sayHello"
   }
