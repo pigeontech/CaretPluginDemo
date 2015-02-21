@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Caret Plugin Demo",
+  "description": "This plugin will output a message in the console after a menu item is clicked in Caret.",
+  "version": "1.0.0",
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
