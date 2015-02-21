@@ -1,6 +1,7 @@
 console.log("Extension loaded. Waiting on Caret...");
 
 chrome.runtime.onMessageExternal.addListener(function(message, sender, sendResponse) {
+    console.log(message);
     if (message.data === "sayHello") {
       console.log("Hello World!");
       console.log("Path:", message.context.path);
